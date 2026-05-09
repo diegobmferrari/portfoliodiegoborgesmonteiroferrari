@@ -44,7 +44,8 @@ Atualmente cursando o [1º] período de [Análise e Desenvolvimento de Sistema] 
  
 #### 🤖 Inteligência Artificial
 
-A Corrida do Prompt
+A Corrida do Prompt.
+
 Desafio: A Corrida do Prompt
 Nesta atividade, vocês não serão apenas usuários de Inteligência Artificial, mas engenheiros de instrução. O objetivo é dominar a técnica de comunicação com modelos de linguagem (LLMs) para obter resultados de alta precisão no menor tempo possível.
 
@@ -65,7 +66,51 @@ Regras de Ouro
 Limite de 5 Prompts: Cada interação conta. Se não atingirem o objetivo na 5ª tentativa, o trio deve parar e analisar o que deu errado.
 Registro de Evolução: Vocês devem printar ou anotar cada prompt enviado e a resposta recebida para a discussão final.
 Colaboração Total: Um membro opera o celular/computadpr, mas os três decidem cada palavra do comando.
-(https://bb.cruzeirodosulvirtual.com.br/ultra/courses/_1157792_1/outline/assessment/_22339067_1/overview/student-submission-view?contentId=_22339067_1&gradeId=_191999516_1&attemptId=_217099706_1&courseId=_1157792_1)
+https://bb.cruzeirodosulvirtual.com.br/ultra/courses/_1157792_1/outline/assessment/_22339067_1/overview/student-submission-view?contentId=_22339067_1&gradeId=_191999516_1&attemptId=_217099706_1&courseId=_1157792_1
+
+Laboratório de Classificação Visual.
+Parte 1: Laboratório de Classificação Visual
+Utilize o navegador para acessar o Teachable Machine (Google) e realize o treinamento de um modelo de imagem simples seguindo os passos abaixo:
+
+Definição de Categorias: Crie duas classes de classificação: "Estereotipo 1" e "Estereotipo 2".
+Alimentação de Dados (Dataset Enviesado): Capture ou carregue 20 imagens para cada categoria, utilizando deliberadamente critérios estereotipados (ex: apenas homens de terno para "Liderança" e apenas mulheres ou pessoas com roupas informais para "Operacional").
+Teste de Inferência: Aponte a câmera para um colega ou objeto que não se encaixe nos padrões capturados no passo anterior.
+Registro do Erro: Tire um print da tela no momento exato em que o modelo realiza uma classificação incorreta (falso positivo ou falso negativo) devido ao viés dos dados de treinamento.
+
+
+Exemplos de estereótipos:
+
+Liderança Executiva e Apoio Administrativo
+Gênio da Tecnologia e Usuário Leigo
+Cientista e Paciente
+Atleta de Elite e Intelectual
+Trabalho Braçal e Trabalho Intelectual
+Artista Criativo e Contador Sério
+Doméstico e Provedor
+Pessoa Perigosa e Pessoa Confiável
+Turista e Local
+Gamer e Pessoa Produtiva
+Espiritualizado e Materialista
+Rebelde e Bom Aluno
+Chef de Cozinha e Cozinheira de Casa
+Influenciador e Trabalhador Real
+Natureba e Fast-food
+Segurança e Público Geral
+Piloto e Caseiro
+Rico e Pobre
+Educador e Aprendiz
+Vegano e Consumista
+
+
+Parte 2: Memorial de Impacto e Ética 
+Após o experimento técnico, responda aos itens abaixo utilizando obrigatoriamente verbos no presente do indicativo:
+
+Mecanismo do Viés: Explique como a seleção restrita de dados corrompe a lógica do algoritmo e gera uma visão distorcida da realidade.
+Consequência Social: Descreva o impacto emocional e profissional sobre um indivíduo que o sistema marginaliza ou invisibiliza através desta classificação.
+Ação Mitigadora: Proponha uma intervenção de "Human-in-the-loop" que garante a equidade no processo de curadoria desses dados antes da implementação do modelo.
+https://bb.cruzeirodosulvirtual.com.br/ultra/courses/_1157792_1/outline/assessment/_22339167_1/overview/student-submission-view?contentId=_22339167_1&gradeId=_191997386_1&attemptId=_217096774_1&courseId=_1157792_1
+
+
  
 ---
  
